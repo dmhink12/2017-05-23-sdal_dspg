@@ -6,4 +6,4 @@ anotha new phone who dis
 
 and guess wat, anotha one
 
-Added an output folder
+Added an output folder with a `.gitkeep` file
